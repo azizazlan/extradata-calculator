@@ -1,6 +1,7 @@
 # genesis file
 
-This repo facilitates the creation of `genesis.json` file.
+Helps us to calculate `extraData` in a genesis file.
+
 
 ## Install
 
